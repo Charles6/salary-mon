@@ -1,0 +1,59 @@
+button{
+  font-size: 40px;
+}
+
+#wrapper{
+  width: 800px;
+  height: 600px;
+  background-color: blue;
+}
+
+#timeWrapper{
+  width: 400px;
+  height: 600px;
+  margin: 0px;
+}
+
+#timeDisplay{
+  font-size: 40px;
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  background-color: white;
+}
+
+#timeStart{
+  height: 100px;
+}
+#timeEnd{
+  height: 100px;
+}
+#timeDifference{
+  height: 100px;
+}
+
+#character{
+  position: absolute;
+  top: 50px;
+  left: 455px;
+  width: 300px;
+  background-color: black;
+  color: white;
+}
+
+#dayEnd{
+  margin-top: 20px;
+}
+
+#clockIn{
+text-align: center;
+  width: 400px;
+  height: 100px;
+  background-color: green;
+}
+
+#break{
+  width: 400px;
+  height: 100px;
+  background-color: red;
+}
