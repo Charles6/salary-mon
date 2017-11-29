@@ -111,13 +111,3 @@ function characterUpdate() {
     '<br>Your Fatigue level is: '+fatigueState;
 
 }
-/* 
-11/26/2017
-Things to consider:
-Salarymon classes
-skills for each classes
-
-Level ups!
-
-
-*/
